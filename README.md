@@ -34,7 +34,7 @@ Using the results of model visualizations, and exploratory data analysis, featur
 ![download](https://user-images.githubusercontent.com/64379963/154839815-f3469a78-a565-46f4-a191-010797fca3fb.png)
 
 ## Conclusion
-The kneighbors regressor algorithm performed the best on the dataset with an R2 score of 99.9% on training data and unseen data; mean absolute error of 1.004, Root meand squared error of 6.8 and a maximum error of 451.1
+The kneighbors regressor algorithm performed the best on the dataset with an R2 score of 99.9% on both training data and unseen data; Mean Absolute Error of 1.004, Root Mean Squared Error of 6.8 and a Maximum Error of 451.1
 
 The model visualization also agrees with these results
 
